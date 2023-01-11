@@ -1,0 +1,7 @@
+{
+	"Skip_API_Token_Verification": ["auth"],
+	"Login_Session_No": 3,
+	"API_Base_URL": "/api",
+	"Database": "mongodb://localhost:27017/matrix",
+	"JWT_ScreteKey": "viDIvSmbiltQfu8qz8f4Bohub1e2jvPdYqnnY1JdntjnBCPHYAiqKt1xPGX5xRO3"
+}
